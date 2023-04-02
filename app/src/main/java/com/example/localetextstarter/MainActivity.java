@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 int intPrice = Integer.parseInt(price.getText().toString());
-                String totPrice = String.valueOf(intPrice * 10);
+                String totPrice = String.valueOf(intPrice * 100);
 
                 totalPrice.setText(totPrice);
             }
