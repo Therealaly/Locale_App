@@ -63,6 +63,8 @@ public class MainActivity extends AppCompatActivity {
 
                 totalPrice.setText(totPrice);
             }
+
+
         });
 
 

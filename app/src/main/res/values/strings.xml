@@ -30,5 +30,5 @@
 
     <string name="button_label">Calculate</string>
 
-    <string name="total_price">Price per 10 packs: $</string>
+    <string name="total_price">Price per 100 packs: $</string>
 </resources>
