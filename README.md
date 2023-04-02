@@ -5,7 +5,7 @@ Application that support more than one language.
 Using device's language as in-app language
 
 Supported language:
-English (US)
-French (FR)
-Arabic (SA)
+English (US) /br
+French (FR) /br
+Arabic (SA) /br
 Indonesia (ID)
